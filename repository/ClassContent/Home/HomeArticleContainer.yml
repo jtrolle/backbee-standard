@@ -8,4 +8,7 @@ HomeArticleContainer:
         rendermode:
             type: 'select'
             value: []
+        koala:
+            type: 'contentTypeSelector'
+            value: []
 
